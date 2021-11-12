@@ -12,11 +12,11 @@ API_SEARCH_URL = "https://nocturn9x.space/amazon/search.php?name={which}"
 # Logging config: (format, datefmt)
 LOGGING_CONFIG = ("%d/%m/%Y %H:%M:%S %p", "[%(levelname)s] [%(asctime)s]: %(message)s", 20)
 
-API_ID = 2452398
-API_HASH = "77d259fb48979543aa6d11042790dc34"
+API_ID = 1236548
+API_HASH = ""
 WORKERS_NUM = 10
 SESSION_NAME = "AmazonOffers"
-BOT_TOKEN = "2129392425:AAHwWWt_xZGKDw_fsZXccEWpiJVlAY6WO4M"
+BOT_TOKEN = ""
 PLUGINS_ROOT = "AmazonBot/plugins"
 MAX_MESS_THRESHOLD = 7
 BAN_TIME = 60
